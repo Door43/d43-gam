@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gam:home|Door43 (gam)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gam|d43-gam repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gam/archive/master.zip|d43-gam.zip]]
+
+**Recent Changes**
+{{changes>ns = gam}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gam|Ethnologue data]]
+
